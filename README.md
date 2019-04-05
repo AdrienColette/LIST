@@ -23,7 +23,7 @@
 # Sujet
 
 cette application android liste différentes marque bière et leurs caractéristique en se basant sur l'API Rest : [http://ontariobeerapi.ca/](http://ontariobeerapi.ca/).
-Donc si tu aimes siroter ce genre de douce mousseuse entre amis ou en famille LIST beer est faite pour toi.
+Donc si tu aimes siroter ce genre de **douce mousseuse** entre amis ou en famille LIST beer est faite pour toi.
 .
 
 ## Application

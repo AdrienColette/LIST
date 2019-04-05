@@ -29,13 +29,13 @@ cette application android liste différentes marque bière et leurs caractérist
 
 ### activity_main / row_item
 
-![Barre de chargement](https://get.google.com/albumarchive/107809482350128997892/album/AF1QipM1oLWLLWgguEhBP-PVYTtv_EHcWuB0CS2ylxau/AF1QipMSY8gobtZLPJ5eLxPFy8qG4iHBUdKCow7bVF8G?source=pwa#6676438929448457586 "progressBar")
+![Barre de chargement](https://lh3.googleusercontent.com/YYK48Oit4ohjPNnsb_lAxQz6nvNAONgDJlVwqEb_WBWysZnam7fHyCjscyuzGuz_iXkho9LI1J9J)
 
 
-![Apercu du premier écran : listing des bières](https://picasaweb.google.com/107809482350128997892/6676439309240537809#6676439311924572818 "ActivityMain")
+![Apercu du premier écran : listing des bières](https://lh3.googleusercontent.com/fEHWb7g3opfKzvjMym9CUdOymOJS3GRxJeJxbdoOCqD7iMlBN-iFd6aSPgJM1PiFb1Hv9KwPNg_K)
 
 ### activity_beer
 
-![Apercu du deuxième écran : caractéristique des bières](https://picasaweb.google.com/107809482350128997892/6676440474770017537#6676440476279433154 "ActivityBeer")
+![Apercu du deuxième écran : caractéristique des bières](https://lh3.googleusercontent.com/f6WaLGprh_tiXBp98EiiLcxIFqOytaeQeC4HAc8Kx8zZpWFAbTXTXLoFbU_EyWr-8VJ25X-PYspi)
 
 

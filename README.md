@@ -29,7 +29,7 @@ cette application android liste différentes marque bière et leurs caractérist
 
 ### activity_main / row_item
 
-![Barre de chargement](https://picasaweb.google.com/107809482350128997892/6676438931056307681#6676438929448457586 "progressBar")
+![Barre de chargement](https://get.google.com/albumarchive/107809482350128997892/album/AF1QipM1oLWLLWgguEhBP-PVYTtv_EHcWuB0CS2ylxau/AF1QipMSY8gobtZLPJ5eLxPFy8qG4iHBUdKCow7bVF8G?source=pwa#6676438929448457586 "progressBar")
 
 
 ![Apercu du premier écran : listing des bières](https://picasaweb.google.com/107809482350128997892/6676439309240537809#6676439311924572818 "ActivityMain")
